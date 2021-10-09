@@ -132,7 +132,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"meeting.son"
+                                 "value":"meeting.json"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
