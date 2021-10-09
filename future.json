@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"mainroom.json#future"
+                 "value":"mainroom.json#entryFuture"
                 }],
          "type":"tilelayer",
          "visible":true,

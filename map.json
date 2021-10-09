@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/mainroom#entryEntrance"
+                 "value":"mainroom.json#entryEntrance"
                 }],
          "type":"tilelayer",
          "visible":true,
