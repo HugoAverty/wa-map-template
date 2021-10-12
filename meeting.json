@@ -324,6 +324,17 @@
                          "id":93,
                          "name":"jitsiMAINmeeting",
                          "opacity":1,
+                         "properties":[
+                                {
+                                 "name":"jitsiInterfaceConfig",
+                                 "type":"string",
+                                 "value":"{ \"DEFAULT_BACKGROUND\": \"#ab504c\" }"
+                                }, 
+                                {
+                                 "name":"jitsiRoom",
+                                 "type":"string",
+                                 "value":"jitsiMAINmeeting"
+                                }],
                          "type":"tilelayer",
                          "visible":true,
                          "width":70,
