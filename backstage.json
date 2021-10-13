@@ -480,12 +480,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: Hugo Averty"
+         "value":"Credits: Workadventu.re awesome team & Hugo Averty"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Map for Oaxes"
+         "value":"Map for DEV 24"
         }, 
         {
          "name":"mapImage",
@@ -500,12 +500,12 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"OAXES EVENT"
+         "value":"DEV 24 EVENT"
         }, 
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",

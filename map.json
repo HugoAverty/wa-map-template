@@ -556,7 +556,7 @@
          "name":"doorOpened",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":70,
          "x":0,
          "y":0
@@ -580,12 +580,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: Hugo Averty (hugo@cognitgo.fr)"
+         "value":"Credits: Workadventu.re awesome team & Hugo Averty"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Map for Oaxes"
+         "value":"Map for DEV 24"
         }, 
         {
          "name":"mapImage",
@@ -600,12 +600,12 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"OAXES EVENT"
+         "value":"DEV 24 EVENT"
         }, 
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
@@ -781,6 +781,88 @@
          "spacing":0,
          "tilecount":4288,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":3107,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":3108,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":3109,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":3171,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":3172,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":3173,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":3235,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":3236,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":3237,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
