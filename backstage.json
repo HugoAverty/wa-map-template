@@ -83,6 +83,17 @@
                  "id":83,
                  "name":"jitsiBackStage",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#ab504c\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiBACKSTAGEmeeting"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":16,
